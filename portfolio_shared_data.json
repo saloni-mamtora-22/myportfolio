@@ -1,0 +1,67 @@
+{
+    "basic_info": {
+      "name": "Saloni Mamtora",
+      "titles": [ "DevOps Engineer" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/saloni-mamtora-22",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/saloni-mamtora2203/",
+          "class": "fab fa-linkedin"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "AWS",
+          "class": "devicon-amazonwebservices-original colored"
+        },
+        {
+          "name": "Azure",
+          "class": "devicon-azure-plain colored"
+        },
+        {
+          "name": "Terraform",
+          "class": "devicon-terraform-plain colored"
+        },
+        {
+          "name": "Google Cloud",
+          "class": "devicon-googlecloud-plain colored"
+        },
+        {
+          "name": "Jenkins",
+          "class": "devicon-jenkins-plain colored"
+        },
+        {
+          "name": "Docker",
+          "class": "devicon-docker-plain colored"
+        },
+        {
+          "name": "Kubernetes",
+          "class": "devicon-kubernetes-plain colored"
+        },
+        {
+          "name": "Git",
+          "class": "devicon-git-plain colored"
+        },
+        {
+          "name": "Linux",
+          "class": "devicon-linux-plain"
+        },
+        {
+          "name": "Grafana",
+          "class": "devicon-grafana-plain colored"
+        },
+        {
+          "name": "Vim",
+          "class": "devicon-vim-plain colored"
+        }
+      ]
+    }
+  }
