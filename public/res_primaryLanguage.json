@@ -1,0 +1,86 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Saloni Mamtora. DevOps engineer with exposure of designing, implementing and managing DevOps solutions across multiple platforms. Adroitnesses in a wide range of DevOps tools and technologies including Amazon Web Services (AWS), Microsoft Azure, docker, grafana, Terraform, Jenkins and Git. Way to explore new technologies such as Google cloud platform (GCP), Kuberenetes, Microsoft Azure DevOps and Ansible. Thank you 💜",
+      "section_name": {
+        "about": "About me",
+        "projects": "Infrastructures",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Microservices Architecture",
+        "startDate": "2022",
+        "description": "This microservice infrastructure is leverages Amazon Web Services (AWS), which allows us to deploy applications as microservices. In this architecture, I have multiple APIs hosted on separate servers, enabling dynamic scaling through Auto Scaling Groups. For improving the search functionality on the website, I leverage ElasticSearch. As for data storage, I rely on Amazon RDS for its efficiency and reliability. Additionally, I utilize SNS and SQS to facilitate to sending the notifications.",
+        "images": [
+          "images/portfolio/ms/1.png",
+          "images/portfolio/ms/2.jpeg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-amazonwebservices-original colored",
+            "name": "AWS"
+          }
+        ]
+      },
+      {
+        "title": "CI/CD Automation",
+        "startDate": "2022",
+        "description": "The CI/CD architecture stands for Continuous Integration and Continuous Deployment. In this setup, GitHub Actions is utilized for pipelines, and the infrastructure is deployed on Amazon Web Services (AWS) using an auto-scaling group. This allows for the deployment of the latest version of the code, and the auto-scaling group ensures that new servers are created while old ones are deleted, as needed for deployment.",
+        "images": [
+          "images/portfolio/cicd/1.png",
+          "images/portfolio/cicd/2.jpeg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-amazonwebservices-original colored",
+            "name": "AWS"
+          },
+          {
+            "class": "devicon-github-original colored",
+            "name": "GitHub"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Seaflux",
+        "title": "Devops Engineer",
+        "years": "06.2022 - present",
+        "mainTech": [
+          "Terraform"
+        ],
+        "technologies": [
+          "Git",
+          "Linux",
+          "Cloud Computing",
+          "AWS",
+          "Jenkins",
+          "GCP",
+          "Azure",
+          "Docker",
+          "Kubernetes",
+          "CI/CD",
+          "Grafana"
+        ]
+      },
+      {
+        "company": "Simform Technologies",
+        "title": "Intern",
+        "years": "12.2021 - 05.2022",
+        "mainTech": [
+          "Amazon Web Services"
+        ],
+        "technologies": [
+          "Git",
+          "Linux",
+          "Cloud Computing"
+        ]
+      }
+    ]
+  }
